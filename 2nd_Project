@@ -1,0 +1,101 @@
+,Customer_ID,Name,Age,Gender,City,Product_Category,Product_Name,Quantity,Price,Purchase_Date,Payment_Mode,Feedback_Score,Discount_Percentage,Revenue,Month
+0,CUST1000,Priya,56,Male,Hyderabad,Toys,Laptop,9,2911,2022-01-01,UPI,5,3.94,26199,2022-01
+1,CUST1001,Amit,46,Female,Pune,Toys,Doll,8,1469,2022-01-08,Credit Card,5,20.72,11752,2022-01
+2,CUST1002,Arjun,32,Female,Bangalore,Toys,Novel,2,2086,2022-01-15,Debit Card,1,9.79,4172,2022-01
+3,CUST1003,Neha,25,Female,Kolkata,Groceries,Laptop,1,246,2022-01-22,Net Banking,3,18.31,246,2022-01
+4,CUST1004,Neha,38,Female,Kolkata,Groceries,Novel,7,3319,2022-01-29,Net Banking,2,27.9,23233,2022-01
+5,CUST1005,Ravi,56,Male,Delhi,Clothing,Sofa,7,3011,2022-02-05,UPI,1,13.95,21077,2022-02
+6,CUST1006,Priya,36,Male,Mumbai,Books,Sofa,8,1834,2022-02-12,Debit Card,2,24.58,14672,2022-02
+7,CUST1007,Pooja,40,Female,Mumbai,Books,Shirt,5,1943,2022-02-19,Debit Card,2,13.24,9715,2022-02
+8,CUST1008,Priya,28,Male,Mumbai,Groceries,Novel,3,588,2022-02-26,Debit Card,3,18.6,1764,2022-02
+9,CUST1009,Sanjay,28,Male,Chennai,Clothing,Table,8,3076,2022-03-05,Credit Card,2,25.55,24608,2022-03
+10,CUST1010,Meena,41,Male,Hyderabad,Groceries,Phone,6,2059,2022-03-12,Net Banking,2,23.54,12354,2022-03
+11,CUST1011,Amit,53,Male,Mumbai,Furniture,Jeans,3,2485,2022-03-19,Debit Card,3,9.66,7455,2022-03
+12,CUST1012,Amit,57,Male,Hyderabad,Clothing,Rice,1,3019,2022-03-26,Credit Card,2,29.58,3019,2022-03
+13,CUST1013,Priya,41,Female,Mumbai,Books,Sofa,3,4836,2022-04-02,Cash,2,4.7,14508,2022-04
+14,CUST1014,Neha,20,Male,Bangalore,Books,Rice,5,1902,2022-04-09,UPI,2,16.64,9510,2022-04
+15,CUST1015,Neha,39,Female,Hyderabad,Groceries,Rice,3,4161,2022-04-16,Net Banking,1,15.03,12483,2022-04
+16,CUST1016,Pooja,19,Female,Mumbai,Furniture,Phone,1,3469,2022-04-23,Net Banking,1,23.06,3469,2022-04
+17,CUST1017,Sanjay,41,Female,Kolkata,Groceries,Laptop,5,362,2022-04-30,UPI,1,22.85,1810,2022-04
+18,CUST1018,Amit,47,Female,Delhi,Electronics,Rice,7,723,2022-05-07,Cash,3,28.77,5061,2022-05
+19,CUST1019,Pooja,55,Male,Hyderabad,Electronics,Novel,7,1116,2022-05-14,Credit Card,5,28.9,7812,2022-05
+20,CUST1020,Neha,19,Male,Kolkata,Furniture,Phone,9,3743,2022-05-21,UPI,2,25.55,33687,2022-05
+21,CUST1021,Pooja,38,Female,Kolkata,Toys,Sofa,3,2149,2022-05-28,Credit Card,2,15.52,6447,2022-05
+22,CUST1022,Meena,50,Female,Kolkata,Toys,Doll,7,3823,2022-06-04,Credit Card,3,10.29,26761,2022-06
+23,CUST1023,Neha,29,Male,Chennai,Electronics,Rice,1,4648,2022-06-11,Credit Card,2,5.42,4648,2022-06
+24,CUST1024,Vikram,39,Female,Delhi,Electronics,Shirt,4,3208,2022-06-18,Cash,1,2.54,12832,2022-06
+25,CUST1025,Sanjay,42,Female,Delhi,Toys,Phone,4,4190,2022-06-25,Cash,5,14.07,16760,2022-06
+26,CUST1026,Arjun,44,Male,Pune,Clothing,Laptop,5,2156,2022-07-02,Credit Card,4,10.52,10780,2022-07
+27,CUST1027,Amit,59,Female,Chennai,Toys,TV,7,3270,2022-07-09,Debit Card,2,6.42,22890,2022-07
+28,CUST1028,Ravi,45,Male,Kolkata,Groceries,Sofa,7,1782,2022-07-16,Net Banking,1,12.81,12474,2022-07
+29,CUST1029,Meena,33,Female,Delhi,Clothing,Sofa,4,2355,2022-07-23,Cash,4,21.92,9420,2022-07
+30,CUST1030,Kiran,32,Male,Delhi,Groceries,TV,7,1254,2022-07-30,Debit Card,5,10.11,8778,2022-07
+31,CUST1031,Arjun,20,Male,Kolkata,Electronics,Novel,3,4599,2022-08-06,Debit Card,4,7.18,13797,2022-08
+32,CUST1032,Ravi,54,Female,Kolkata,Clothing,Doll,6,3291,2022-08-13,Net Banking,1,28.97,19746,2022-08
+33,CUST1033,Neha,24,Male,Mumbai,Groceries,Sofa,2,1796,2022-08-20,Credit Card,4,6.33,3592,2022-08
+34,CUST1034,Kiran,38,Male,Mumbai,Groceries,Sofa,9,4091,2022-08-27,Debit Card,3,3.86,36819,2022-08
+35,CUST1035,Priya,26,Female,Hyderabad,Clothing,Laptop,5,4823,2022-09-03,Debit Card,4,5.75,24115,2022-09
+36,CUST1036,Priya,56,Male,Hyderabad,Furniture,Sofa,6,4782,2022-09-10,Debit Card,2,20.09,28692,2022-09
+37,CUST1037,Meena,35,Male,Hyderabad,Toys,Phone,4,1748,2022-09-17,Credit Card,2,28.6,6992,2022-09
+38,CUST1038,Priya,21,Female,Mumbai,Books,Novel,7,1545,2022-09-24,Credit Card,3,13.93,10815,2022-09
+39,CUST1039,Kiran,42,Female,Kolkata,Groceries,Doll,9,4299,2022-10-01,Cash,1,23.09,38691,2022-10
+40,CUST1040,Kiran,31,Male,Hyderabad,Toys,Shirt,7,4023,2022-10-08,Cash,2,5.16,28161,2022-10
+41,CUST1041,Sanjay,26,Male,Delhi,Books,Doll,1,353,2022-10-15,Debit Card,5,8.24,353,2022-10
+42,CUST1042,Arjun,43,Female,Mumbai,Toys,Novel,1,3283,2022-10-22,Credit Card,2,7.71,3283,2022-10
+43,CUST1043,Amit,19,Female,Hyderabad,Electronics,Table,9,2657,2022-10-29,Credit Card,2,3.14,23913,2022-10
+44,CUST1044,Vikram,37,Male,Delhi,Books,Phone,9,198,2022-11-05,Net Banking,1,27.33,1782,2022-11
+45,CUST1045,Pooja,45,Male,Hyderabad,Toys,Table,4,2300,2022-11-12,Debit Card,4,25.01,9200,2022-11
+46,CUST1046,Priya,24,Male,Bangalore,Groceries,Novel,9,3061,2022-11-19,Cash,2,27.08,27549,2022-11
+47,CUST1047,Meena,25,Male,Kolkata,Books,Laptop,3,4533,2022-11-26,Net Banking,3,2.45,13599,2022-11
+48,CUST1048,Priya,52,Male,Kolkata,Electronics,Shirt,7,3877,2022-12-03,Credit Card,4,26.25,27139,2022-12
+49,CUST1049,Pooja,31,Female,Hyderabad,Clothing,Doll,6,2969,2022-12-10,Cash,5,4.91,17814,2022-12
+50,CUST1050,Arjun,34,Male,Bangalore,Groceries,Rice,8,3334,2022-12-17,Debit Card,1,2.28,26672,2022-12
+51,CUST1051,Sanjay,53,Male,Hyderabad,Electronics,Jeans,9,3891,2022-12-24,Credit Card,5,28.88,35019,2022-12
+52,CUST1052,Kiran,57,Male,Pune,Electronics,Doll,5,1056,2022-12-31,Debit Card,4,7.71,5280,2022-12
+53,CUST1053,Sanjay,21,Female,Pune,Books,Laptop,1,4167,2023-01-07,Net Banking,4,13.59,4167,2023-01
+54,CUST1054,Neha,19,Male,Kolkata,Toys,Shirt,3,260,2023-01-14,Net Banking,4,5.46,780,2023-01
+55,CUST1055,Priya,23,Female,Chennai,Clothing,Jeans,8,4593,2023-01-21,Net Banking,5,3.34,36744,2023-01
+56,CUST1056,Amit,59,Female,Pune,Groceries,Phone,6,1400,2023-01-28,UPI,4,17.25,8400,2023-01
+57,CUST1057,Neha,21,Male,Pune,Groceries,Novel,8,4087,2023-02-04,Debit Card,5,28.89,32696,2023-02
+58,CUST1058,Arjun,46,Male,Hyderabad,Toys,Novel,9,1627,2023-02-11,Net Banking,4,13.1,14643,2023-02
+59,CUST1059,Priya,35,Female,Mumbai,Clothing,Phone,4,1318,2023-02-18,Net Banking,3,18.4,5272,2023-02
+60,CUST1060,Neha,43,Female,Mumbai,Books,Jeans,1,4596,2023-02-25,Debit Card,4,12.51,4596,2023-02
+61,CUST1061,Priya,51,Female,Bangalore,Groceries,Table,1,4835,2023-03-04,Net Banking,5,17.12,4835,2023-03
+62,CUST1062,Meena,27,Female,Mumbai,Clothing,Shirt,4,3204,2023-03-11,Debit Card,2,0.32,12816,2023-03
+63,CUST1063,Arjun,53,Female,Delhi,Books,Phone,7,2835,2023-03-18,Credit Card,4,10.88,19845,2023-03
+64,CUST1064,Vikram,31,Male,Chennai,Books,Jeans,2,4655,2023-03-25,Debit Card,2,28.32,9310,2023-03
+65,CUST1065,Kiran,48,Male,Pune,Groceries,Sofa,3,1054,2023-04-01,Debit Card,3,27.1,3162,2023-04
+66,CUST1066,Ravi,32,Male,Chennai,Toys,Doll,1,4665,2023-04-08,UPI,1,20.18,4665,2023-04
+67,CUST1067,Kiran,25,Male,Delhi,Furniture,Laptop,5,3546,2023-04-15,Credit Card,3,20.1,17730,2023-04
+68,CUST1068,Kiran,31,Female,Pune,Groceries,Phone,1,1145,2023-04-22,UPI,4,5.7,1145,2023-04
+69,CUST1069,Neha,40,Male,Bangalore,Electronics,Laptop,8,1793,2023-04-29,Net Banking,2,21.9,14344,2023-04
+70,CUST1070,Arjun,57,Male,Delhi,Electronics,Table,1,3536,2023-05-06,Debit Card,2,9.23,3536,2023-05
+71,CUST1071,Priya,38,Male,Delhi,Books,Table,1,662,2023-05-13,Credit Card,5,22.21,662,2023-05
+72,CUST1072,Sanjay,33,Male,Chennai,Furniture,Sofa,2,2585,2023-05-20,UPI,2,16.36,5170,2023-05
+73,CUST1073,Ravi,35,Male,Hyderabad,Groceries,Novel,2,3454,2023-05-27,Debit Card,5,26.19,6908,2023-05
+74,CUST1074,Pooja,41,Male,Chennai,Electronics,Phone,6,325,2023-06-03,Cash,1,14.2,1950,2023-06
+75,CUST1075,Neha,43,Male,Kolkata,Electronics,Shirt,7,4993,2023-06-10,UPI,4,0.97,34951,2023-06
+76,CUST1076,Ravi,42,Male,Chennai,Groceries,Novel,5,1059,2023-06-17,Credit Card,5,7.86,5295,2023-06
+77,CUST1077,Vikram,58,Male,Mumbai,Clothing,Jeans,1,4648,2023-06-24,UPI,1,2.06,4648,2023-06
+78,CUST1078,Meena,46,Female,Delhi,Books,Novel,1,3167,2023-07-01,UPI,2,19.15,3167,2023-07
+79,CUST1079,Arjun,32,Male,Chennai,Groceries,Shirt,3,915,2023-07-08,UPI,2,8.71,2745,2023-07
+80,CUST1080,Pooja,18,Male,Delhi,Clothing,Doll,2,4854,2023-07-15,Net Banking,1,16.81,9708,2023-07
+81,CUST1081,Neha,42,Female,Kolkata,Books,Table,5,4742,2023-07-22,Cash,2,4.17,23710,2023-07
+82,CUST1082,Kiran,24,Female,Mumbai,Furniture,Doll,6,3220,2023-07-29,Credit Card,1,0.8,19320,2023-07
+83,CUST1083,Amit,26,Male,Delhi,Toys,Phone,7,116,2023-08-05,Credit Card,5,8.27,812,2023-08
+84,CUST1084,Neha,41,Male,Chennai,Books,Novel,4,1343,2023-08-12,Credit Card,5,26.63,5372,2023-08
+85,CUST1085,Amit,18,Female,Delhi,Furniture,Phone,7,2305,2023-08-19,Debit Card,1,6.4,16135,2023-08
+86,CUST1086,Kiran,25,Male,Pune,Toys,Doll,8,2624,2023-08-26,Credit Card,5,8.96,20992,2023-08
+87,CUST1087,Meena,41,Female,Kolkata,Electronics,Table,1,1169,2023-09-02,Credit Card,5,7.37,1169,2023-09
+88,CUST1088,Arjun,28,Female,Mumbai,Electronics,Rice,6,3544,2023-09-09,Cash,5,24.71,21264,2023-09
+89,CUST1089,Priya,34,Male,Hyderabad,Electronics,Sofa,8,2665,2023-09-16,Debit Card,3,24.01,21320,2023-09
+90,CUST1090,Neha,25,Male,Delhi,Books,Phone,5,1160,2023-09-23,Debit Card,4,23.28,5800,2023-09
+91,CUST1091,Sanjay,52,Male,Chennai,Clothing,Phone,4,2427,2023-09-30,UPI,2,1.32,9708,2023-09
+92,CUST1092,Kiran,52,Female,Mumbai,Toys,Rice,2,3520,2023-10-07,Net Banking,3,18.51,7040,2023-10
+93,CUST1093,Neha,50,Female,Chennai,Electronics,Jeans,6,401,2023-10-14,Debit Card,5,17.48,2406,2023-10
+94,CUST1094,Vikram,22,Female,Chennai,Groceries,Jeans,6,4376,2023-10-21,Debit Card,1,23.52,26256,2023-10
+95,CUST1095,Meena,59,Female,Delhi,Toys,Doll,1,706,2023-10-28,Cash,5,9.46,706,2023-10
+96,CUST1096,Vikram,56,Female,Chennai,Toys,Phone,9,3270,2023-11-04,Credit Card,4,5.2,29430,2023-11
+97,CUST1097,Ravi,58,Male,Delhi,Clothing,Table,6,799,2023-11-11,Debit Card,5,12.88,4794,2023-11
+98,CUST1098,Arjun,45,Male,Hyderabad,Furniture,Laptop,3,1239,2023-11-18,Debit Card,1,12.22,3717,2023-11
+99,CUST1099,Ravi,24,Male,Pune,Clothing,Doll,4,290,2023-11-25,Net Banking,4,20.55,1160,2023-11
